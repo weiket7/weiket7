@@ -1,21 +1,20 @@
 ### About Me
 
-Hello! I'm Wei Ket, a self-taught full stack developer in Singapore. When I was 12, I started coding HTML, CSS and Javascript and now here I am. A lot of people can code, what I do differently is I emphasise on code quality using unit tests and safe refactoring. 
+Hello! My name is Wei Ket, a self-taught full stack developer in Singapore. I love coding because we can build products which solve problems and help people. In all environments, I emphasise on refactoring to code smells and design principles and writing unit and integration tests. I'm meticulous and practical with a growth mindset.
 
 ### Tech Stack
-- Backend: PHP, C#, Java, Kotlin
-- Backend Frameworks: Laravel for PHP, .NET Framework and .NET Core for C#, Spring Boot for Java and Kotlin
+- Backend: C# (.NET MVC and .NET Core), Node.js (Hapi), PHP (Laravel), Java and Kotlin (Sprint Boot)
 - Frontend: HTML, CSS, Bootstrap, Javascript, jQuery, Vue.js, React.js
 - Database: MySQL, PostgreSQL, MS SQL, Redis
 - Tools: Git
-- DevOps: Jenkins, GitLab
+- DevOps: Docker, AWS, Jenkins, GitLab
 - Architecture: Micro frontend and microservices
 - Technical practices: Object oriented programming (OOP), domain driven design (DDD), refactoring, test driven development (TDD), design patterns, SOLID principles, code review, pair programming, defensive programming
-- Familiar with: Agile, Scrum
+- Familiar with: Agile, Scrum, facilitation, mentoring
 - Security: OWASP Top 10, scan using Acunetix, pen testing using Burpsuite
 
 ### Pro Bono
-I love dogs! I developed these to help dogs get adopted:  
+I love dogs! I made these websites to practise coding and help dogs get adopted:  
 www.adoptadog.sg  
 www.fmn.sg  
 www.asdsingapore.com
