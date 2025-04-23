@@ -3,10 +3,10 @@
 Hello! My name is Wei Ket, a self-taught full stack developer in Singapore. I love coding because we can build products which solve problems and help people. To improve code quality and reduce technical debt, I emphasise on refactoring to code smells and design principles and writing unit and integration tests. I'm meticulous and practical with a growth mindset.
 
 ### Tech Stack
-- Backend: C# (.NET Core), Golang, Node.js (Hapi), PHP (Laravel), Java and Kotlin (Spring Boot)
+- Backend: C# (.NET Core), Golang, Node.js (Hapi/Express/Nest), PHP (Laravel), Java and Kotlin (Spring Boot)
 - Frontend: CSS frameworks like Bootstrap and Tailwind, jQuery, React.js, Next.js, Vue.js, Nuxt.js
 - Database: MySQL, PostgreSQL, MS SQL, stored procedures, Redis
-- DevOps: AWS, Docker, Kubenetes
+- DevOps: AWS, Docker, Kubernetes
 - Architecture: Micro frontend, monolith, microservice, event-driven
 - Technical practices: Object oriented programming (OOP), domain driven design (DDD), refactoring, test driven development (TDD), design patterns, SOLID principles, code review, pair programming, defensive programming
 - Familiar with: Agile, Scrum, facilitation techniques, Satir coaching model
