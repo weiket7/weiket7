@@ -4,7 +4,7 @@ Hello! My name is Wei Ket, a self-taught full stack developer in Singapore. I lo
 
 ### Tech Stack
 - Backend: C# (.NET Core), Golang, Node.js (Hapi/Express/Nest), PHP (Laravel), Java and Kotlin (Spring Boot)
-- Frontend: CSS frameworks like Bootstrap and Tailwind, jQuery, React.js, Next.js, Vue.js, Nuxt.js
+- Frontend: jQuery, Typescript, React.js, Next.js, Vue.js, Nuxt.js, CSS frameworks like Bootstrap and Tailwind
 - Database: MySQL, PostgreSQL, MS SQL, stored procedures, Redis
 - DevOps: AWS, Docker, Kubernetes
 - Architecture: Micro frontend, monolith, microservice, event-driven
