@@ -14,14 +14,16 @@ Hello! My name is Wei Ket, a self-taught full stack developer in Singapore. I lo
 
 ### Pro Bono
 I love dogs! I made these websites to practise coding and help dogs get adopted:  
-www.asdsingapore.com (online
-www.adoptadog.sg (no longer online)
-www.fmn.sg (no longer online)
+Action for Singapore Dogs [asdsingapore.com](https://www.asdsingapore.com)  
+Adopt A Dog adoptadog.sg (no longer online)  
+Forget Me Not fmn.sg (no longer online)  
+
+### Portfolio
+[weiket.pages.dev](https://weiket.pages.dev/)
 
 ### Contact Me
 - wei_ket@hotmail.com
-- www.linkedin.com/in/ong-wei-ket
-- weiket.pages.dev
+- (linkedin.com/in/ong-wei-ket)[linkedin.com/in/ong-wei-ket]
 
 <!---
 weiket7/weiket7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
